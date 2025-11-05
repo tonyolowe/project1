@@ -40,3 +40,6 @@ csv_files
 
 # Ignore VS Code workspace settings
 .vscode/
+
+# Ignore csv folder
+.csv_files/
