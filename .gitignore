@@ -34,3 +34,9 @@ obj/
 
 # Ignore the csv_files folder
 csv_files
+
+# Ignore the csv_files folder
+csv_files
+
+# Ignore VS Code workspace settings
+.vscode/
