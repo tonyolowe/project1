@@ -29,3 +29,8 @@ obj/
 *.bak
 *.log
 
+# Ignore VS Code workspace settings
+.vscode/settings.json
+
+# Ignore the csv_files folder
+.csv_files
