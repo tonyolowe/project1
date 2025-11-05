@@ -33,4 +33,4 @@ obj/
 .vscode/settings.json
 
 # Ignore the csv_files folder
-.csv_files
+csv_files
