@@ -1,14 +1,3 @@
-# project1
-
-## 📞 Contact
-
-**Your Name**
-- GitHub: [tonyolowe](https://github.com/tonyolowe)
-- Email: tonyolowe02@gmail.com
-
-# Connect to your database
-psql -d project1
-
 # Data Analyst Job Market Analysis
 
 ## Overview
@@ -51,4 +40,9 @@ CREATE DATABASE my_first_project;
 - Python + SQL + Tableau is the most valuable skill combination
 
 ## Author
-**Your Name** - [GitHub](https://github.com/tonyolowe)
+**Olowe Anthony Oluboba** - [tonyolowe](https://github.com/tonyolowe)
+
+## 📞 Contact
+
+- GitHub: [tonyolowe](https://github.com/tonyolowe)
+- Email: tonyolowe02@gmail.com 
